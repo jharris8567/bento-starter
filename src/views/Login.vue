@@ -18,7 +18,7 @@
       class="login-btn"
       @click="login"
     >
-      Login with google
+      Login with <font-awesome-icon :icon="['fab', 'google']" size="1x" />
     </div>
   </div>
 </template>

@@ -10,6 +10,13 @@
       href="https://bento-starter.netlify.com/"
       >Documentation →</a
     >
+
+    <div class="alert alert-primary" role="alert">
+  A simple primary alert—check it out!!!
+</div>
+
+<font-awesome-icon :icon="['fab', 'google']" size="4x" />
+<font-awesome-icon :icon="['fab', 'twitter']" size="4x" />
   </div>
 </template>
 
